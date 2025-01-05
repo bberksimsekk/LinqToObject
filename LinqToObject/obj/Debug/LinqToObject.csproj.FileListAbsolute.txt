@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\Huawei\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb
